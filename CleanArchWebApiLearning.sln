@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Application", "CleanArchWebApiLearning.Application\CleanArchWebApiLearning.Application.csproj", "{035A641D-E7D8-4A31-A819-3AD4BFC9F289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Core", "CleanArchWebApiLearning.Core\CleanArchWebApiLearning.Core.csproj", "{67AEF0C8-9ED6-40AD-883E-25E4CFEC823C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Infrastructure", "CleanArchWebApiLearning.Infrastructure\CleanArchWebApiLearning.Infrastructure.csproj", "{5AA54FB6-F994-457F-922A-E894EB895573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.WebApi", "CleanArchWebApiLearning.WebApi\CleanArchWebApiLearning.WebApi.csproj", "{F8E2A650-3350-49AA-A214-7E03436176FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035A641D-E7D8-4A31-A819-3AD4BFC9F289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035A641D-E7D8-4A31-A819-3AD4BFC9F289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035A641D-E7D8-4A31-A819-3AD4BFC9F289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035A641D-E7D8-4A31-A819-3AD4BFC9F289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AEF0C8-9ED6-40AD-883E-25E4CFEC823C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AEF0C8-9ED6-40AD-883E-25E4CFEC823C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AEF0C8-9ED6-40AD-883E-25E4CFEC823C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AEF0C8-9ED6-40AD-883E-25E4CFEC823C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA54FB6-F994-457F-922A-E894EB895573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA54FB6-F994-457F-922A-E894EB895573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA54FB6-F994-457F-922A-E894EB895573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA54FB6-F994-457F-922A-E894EB895573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E2A650-3350-49AA-A214-7E03436176FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E2A650-3350-49AA-A214-7E03436176FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E2A650-3350-49AA-A214-7E03436176FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E2A650-3350-49AA-A214-7E03436176FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
