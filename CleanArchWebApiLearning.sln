@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Infrastructure", "CleanArchWebApiLearning.Infrastructure\CleanArchWebApiLearning.Infrastructure.csproj", "{5AA54FB6-F994-457F-922A-E894EB895573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.WebApi", "CleanArchWebApiLearning.WebApi\CleanArchWebApiLearning.WebApi.csproj", "{F8E2A650-3350-49AA-A214-7E03436176FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchWebApiLearning.Presentation", "CleanArchWebApiLearning.Presentation\CleanArchWebApiLearning.Presentation.csproj", "{45392119-0D38-49D3-A60D-9344E35B3202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,9 +32,9 @@ Global
 		{5AA54FB6-F994-457F-922A-E894EB895573}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA54FB6-F994-457F-922A-E894EB895573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA54FB6-F994-457F-922A-E894EB895573}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F8E2A650-3350-49AA-A214-7E03436176FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8E2A650-3350-49AA-A214-7E03436176FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8E2A650-3350-49AA-A214-7E03436176FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8E2A650-3350-49AA-A214-7E03436176FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45392119-0D38-49D3-A60D-9344E35B3202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45392119-0D38-49D3-A60D-9344E35B3202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45392119-0D38-49D3-A60D-9344E35B3202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45392119-0D38-49D3-A60D-9344E35B3202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
